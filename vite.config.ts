@@ -8,6 +8,6 @@ export default defineConfig({
   plugins: [tailwindcss(), svelte()],
   server: {
     host: true,
-    allowedHosts: ["led-underlayer-hair-color.nms.lnln.dev"],
+    allowedHosts: ["led-underlayer-hair-color.lnln.dev"],
   },
 })
